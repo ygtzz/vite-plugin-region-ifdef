@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "一个用于 Vite 的插件，实现类似 C/C++ 条件编译的功能，支持多种条件编译、嵌套条件编译和条件表达式。",
   "main": "src/index.js",
+  "module": "src/index.js",
+  "type": "module",
   "keywords": [
     "vite",
     "plugin",
