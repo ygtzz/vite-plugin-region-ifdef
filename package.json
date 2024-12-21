@@ -1,0 +1,22 @@
+{
+  "name": "vite-plugin-region-ifdef",
+  "version": "1.0.0",
+  "description": "一个用于 Vite 的插件，实现类似 C/C++ 条件编译的功能，支持多种条件编译、嵌套条件编译和条件表达式。",
+  "main": "src/index.js",
+  "keywords": [
+    "vite",
+    "plugin",
+    "ifdef",
+    "ifndef",
+    "region"
+  ],
+  "author": "pglin66@126.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pglin66/vite-plugin-region-ifdef.git"
+  }
+}
