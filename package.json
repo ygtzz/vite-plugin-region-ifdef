@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-ifdef",
+  "name": "vite-plugin-dev-ifdef",
   "version": "1.0.1",
   "description": "一个用于 Vite 的插件，实现类似 C/C++ 条件编译的功能，支持多种条件编译、嵌套条件编译和条件表达式。",
   "main": "src/index.js",
