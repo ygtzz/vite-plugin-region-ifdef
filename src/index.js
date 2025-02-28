@@ -32,8 +32,6 @@ export default function regionIfdefPlugin(options = {}) {
             return (res || {}).code || html;
         },
         transform(code, path) {
-            console.log('path: ', path);
-            
             let res = commonTransform(code, path);
             return res;
         }
